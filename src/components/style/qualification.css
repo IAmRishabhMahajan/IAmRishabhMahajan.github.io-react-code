@@ -1,0 +1,43 @@
+.qualification-grid{
+    margin-top: 20px;
+    display: flex
+} 
+
+.qualification-item{
+    margin-bottom: 20px;
+    width: 32%;
+}
+
+.qua-descrip{
+    border-top: 2px solid var(--theme-color);
+    border-left: 2px solid var(--theme-color);
+    padding: 20px;
+    min-height: 300px;
+    position: relative
+}
+
+.button_qua{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    min-width: 100px
+}
+
+  
+.card{
+background-color: var(--page-color);
+border: solid 2px var(--theme-color);
+}
+
+.card-text{
+margin-bottom: 40px;
+ }
+
+.card-link{
+text-decoration: none;
+right: 10px;
+bottom: 10px;
+position: relative;
+padding: 2px 6px;
+margin-top: 30px;
+} 

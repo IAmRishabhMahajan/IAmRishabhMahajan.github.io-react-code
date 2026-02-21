@@ -1,0 +1,375 @@
+{"name": "RISHABH MAHAJAN ",
+ "title": "A bit of Data Science",
+ "github":"https://github.com/iamrishabhmahajan",
+ "img_source":"/src/components/images/profile-img.jpg",
+ "greeting": "Welcome to my Hub, ",
+ "description": ["Programming, researching, and learning data science are my joy. As I engage in problem-solving, this joy transforms into a devoted commitment.",
+                  "My career goal is to enable businesses by leveraging data-driven technologies. I achieve this by fostering collaboration, applying critical thinking, and continuously expanding my technical expertise.",
+                  "I have solid experience in data engineering, including data pipeline development, ETL processes, cloud computing, and database management. Additionally, I have expertise in data analytics, machine learning, and web development—skills that enable me to bridge multiple domains effectively. Alongside building scalable data solutions, I enjoy being a tech generalist who is always eager to learn and grow.",
+		  "Last but not least, I’m a foodie, a Picasso wannabe, and a gleeful introvert."],
+ "highlight": "If your awesome data team needs some more hands, I got you. I'm looking forward an opportunities to bring data science solutions to level up the business performance. So, if you think we could be a good match, please reach out to me!",
+ "education":[{
+    "school":"S P Jain School of Global Management",
+    "begin_year":"2021",
+    "end_year":"2024",
+    "program": "Bachelor of Data Science",
+    "GPA": "3.8",
+    "achievement": "Dean's Lister",
+    "school_link": "https://www.spjain.edu.au/",
+    "program_link": "https://www.spjain.edu.au/programs/undergraduate/bachelor-of-data-science"
+ }
+],
+ "experience":[
+  {"experience":"Data Analyst",
+  "company":"Eucalyptus",
+  "company_location":"Sydney, NSW, Australia",
+  "work_begin":"February 2024",
+  "work_end":"Current",
+  "task":[
+	"Designed and implemented scalable ETL pipelines to ingest data from PostgreSQL databases and Segment into BigQuery Data Warehouse.",
+	"Utilised Fivetran to reliably ingest data from Deputy API into BigQuery, ensuring seamless integration and data consistency.",
+	"Developed scheduled batch jobs for automated ingestion and processing of customer data from PostgreSQL and application event data from Segment.",
+	"Migrated over 200 DBT models from AWS Redshift to GCP BigQuery, validating migration accuracy (>99%) through Python-based reconciliation scripts.",
+	"Built and enhanced over 50 DBT models integrating multiple data sources, implementing rigorous QA processes with 100+ automated SQL tests to ensure pipeline reliability.",
+	"Designed efficient database schemas optimised for analytical queries, reporting, and business intelligence purposes.",
+	"Created more than 100 dashboards and analytical reports in Metabase and Tableau, supporting operational efficiency and strategic decision-making across the organisation.",
+	"Identified the need for semantic data solutions; developed a Data Generation Tool and Data Querying Bot leveraging Vertex AI to enhance data accessibility and automate querying processes."
+  ],
+  "skill":["SQL",
+	"Python",
+	"PostgreSQL",
+	"Segment",
+	"Fivetran",
+	"BigQuery",
+	"Redshift",
+	"DBT",
+	"Metabase",
+	"Tableau",
+	"Vertex AI",
+	"ETL Pipeline Development",
+	"Data Migration",
+	"Data Modelling",
+	"Data Visualisation",
+	"Automated Testing"]
+  },
+ {"experience":"Data Analyst",
+    "company":"kippy.ai",
+    "company_location":"Sydney, NSW, Australia",
+    "work_begin":"January 2024",
+    "work_end":"April 2024",
+    "task":[
+	"Collaborated closely with founders to define and implement core business KPIs, focusing on user engagement metrics and learning outcome analytics.",
+	"Developed and optimised scalable SQL queries and BigQuery stored procedures, significantly enhancing data ingestion and processing efficiency for large-scale user event data.",
+	"Designed and maintained robust data pipelines to ensure timely and accurate delivery of analytics-ready datasets.",
+	"Built interactive dashboards in Metabase to visualise user journeys, conversion metrics, and engagement patterns, enabling informed strategic decisions."
+	],
+     "skill":[
+	"SQL",
+	"BigQuery",
+	"Metabase",
+	"Data Pipeline Development",
+	"ETL Processes",
+	"Data Visualisation",
+	"Performance Optimisation"
+	]
+    }, 
+ {"experience":"AI Builder Fellow",
+    "company":"Build Club",
+    "company_location":"Sydney, NSW, Australia",
+    "work_begin":"August 2023",
+    "work_end":"May 2024",
+    "task":["Collaborated with professionals in co-working sessions and hackathons to explore and develop innovative AI solutions.",
+	    "Created and presented AI proof-of-concepts (POC), showcasing AI’s potential to address critical challenges in Healthcare and Food Waste",
+	    "Engaged in insightful discussions, asking targeted questions to understand AI concepts, and provided constructive feedback to improve solutions.",
+    	    "Developed technical proficiency in Python for AI development, applying core programming skills to build effective AI systems."],
+    "skill":["Python", "Web Development", "AI System Development", "Communication"]
+    }, 
+ {"experience":"Data Science Intern",
+    "company":"St Trinity Property Group",
+    "company_location":"North Strathfield, NSW, Australia",
+    "work_begin":"September 2023",
+    "work_end":"January 2024",
+    "task":["Extract clients and deals data from the CRM system using SQL; Preprocess raw data to ensure consistency and accuracy with Python.","Perform comprehensive analysis to discover significant insights related to customer expectations and acceptance of offers, identifying opportunities for improvement.","Create a mathematical model employing to segment customers to optimize the sales process, enhancing efficiency, and potentially optimizing sales process by 20%.","Build a text mining model to extract customer interests from associates’ call and appointment notes.", "Work with cross-functional teams to explain model features and communicate insights. "],
+    "skill":["SQL", "Python", "Data Analysis", "Text Mining", "Communication","Apache Hadoop","Git","CRM"]
+    },
+{"experience":"Research Intern",
+    "company":"NP Investment Research",
+    "company_location":"Remote, The USA",
+    "work_begin":"July 2023",
+    "work_end":"Current",
+    "task":["Conduct comprehensive research on technical indicators and models, with a specific focus on moving average models. ","Apply technical analysis concepts to design and develop a Python-based model for ETF trading recommendations, integrating moving average models. ","Achieve a milestone of 12% higher annual returns compared to a baseline model.","Prepare and communicate detailed reports on model methodology, model performance, exhibits, and investment recommendations."],
+    "skill":["Python", "Microsoft Excel", "Visualisation", "Financial Modelling", "Technical Analysis","Web Scrapping","Research Methodology and Writing in Finance"]
+    },
+  {"experience":"Business Analyst Intern",
+    "company":"Softline International",
+    "company_location":"Remote, Vietnam",
+    "work_begin":"November 2021",
+    "work_end":"March 2022",
+    "task":["Ensuring data accuracy and integrity of the databases by automating the data validation process.","Conduct web scraping to gather external data sources and compiled the information.","Build interactive dashboards and reports using Microsoft PowerBI, and DAX language skills. ","Communicate insights and findings to managers and stakeholders using well-structured reports and presentations."],
+    "skill":["Microsoft PowerBI", "Microsoft Excel", "Python", "SQL", "Communication","Web Scrapping","Data Gathering"]
+    },
+    {"experience":"Research Intern",
+    "company":"Think Tanks and Civil Societies Program",
+    "company_location":"Remote, The USA",
+    "work_begin":"April 2021",
+    "work_end":"July 2021",
+    "task":["Research the status of over 200 think tanks and the impact of these institutions on public policy and civil society in Southeast Asia.",  "Collect, process and cross-check data about think tanks.", "Use Microsoft Excel to analyse statistical summaries and visualise data.", "Write a report to explain the findings and create visualizations about the developing trends of these think tanks."],
+    "skill":["Research Methods", "Data Collection", "Research Synthesis", "Microsoft Excel"]
+  },
+  {"experience":"Marketing Executive",
+    "company":"Survival Skills Vietnam",
+    "company_location":"Ho Chi Minh City, Vietnam",
+    "work_begin":"Oct 2020",
+    "work_end":"Jun 2021",
+    "task":["Analyse the current trends using Google Trends and develop the marketing plan.",  "Run and monitor marketing campaigns.", "Design media posts, flyers, and brochures.", "Write contents for events, promotions, products, and campaigns of the company."],
+    "skill":["Digital Marketing", "Content Marketing", "Social Media", "Graphic Design"]
+  }],
+ "project":[
+ {
+    "name": "Clinical Consultation Analysis with AI Transcription",
+    "date": 2024,
+    "projectype": "Hackathon",
+    "description":[
+     "The app enhances clinical consultations by transcribing audio recordings into text and analyzing them with AI to extract key details about diet, lifestyle, and symptoms. It generates concise summaries for easy follow-ups, helps manage appointments with calendar integration, and allows users to securely share health summaries with doctors, family, or friends. This tool aims to improve healthcare engagement, streamline communication, and support better treatment outcomes."
+    ],
+    "skill_tag": ["Grok", "OpenAI Whisper", "API Integration", "Python", "Streamlit"],
+    "difficult":3,
+    "viewLink":"https://www.loom.com/share/503b98cb5fbc4561b80726cfcb32c438?sid=18c9d71c-e640-4178-8ff9-83cb10a55aba"
+    },
+ {
+    "name": "LLM Evaluation Custom Dataset",
+    "date": 2024,
+    "projectype": "Personal Project",
+    "description":[
+     "The LLM Evaluation Custom Dataset app provides a simple interface for evaluating language models using your datasets. With support for exact and relative match testing, it enables users to upload datasets, configure model details, enter prompts, and evaluate performance. The app handles datasets in CSV or Excel formats, requiring two columns: test_input and label."
+    ],
+    "skill_tag": ["Large Language Model", "Nextjs", "Django", "Docker", "Bash", "JavaScript", "Python"],
+    "difficult":3,
+    "viewLink":"https://youtu.be/sronXZV0Emw",
+    "sourceCode":"https://github.com/thaoquynh0603/llm-eval-custom-dataset"
+    },
+ {
+    "name": "Pickle Recipe: Using AI to reduce Food Waste",
+    "date": 2024,
+    "projectype": "Hackathon",
+    "description":[
+     "The Pickle Recipe app is an AI-powered tool that generates recipes and corresponding recipe photos based on user inputs like ingredients, leftovers, cooking time, and difficulty level.  This app utilizes an AI agent which users can interact with via email to request recipes and receive the generated recipe and photo."
+    ],
+    "skill_tag": ["AI Agent", "ReactJs", "Relevance AI"],
+    "difficult":2,
+    "viewLink": "https://youtu.be/xWvfE1z30Gs",
+    "sourceCode": "https://github.com/thaoquynh0603/pickle-recipe"
+    },
+ {
+    "name": "SQL Query Assistant with AI",
+    "date": 2024,
+    "projectype": "Personal Project",
+    "description":[
+     "Developed a user-friendly platform enabling users to generate customized SQL queries tailored to their database system utilizing GCP Codey, Gemini Pro, and ChatGPT.",
+"Implemented robust data validation features allowing users to conduct unit checks on output data, including missing value, null value, and value range checks.",
+"Enhanced query accuracy by dynamically providing relevant query examples using a RAG system, incorporating vector search capabilities.",
+"Utilized Streamlit to create an intuitive and interactive user interface for seamless user experience.",
+"Conducted extensive research on foundational models, testing their efficacy on graph and vector databases for the RAG system, while exploring UI frameworks such as Streamlit and React.js for optimal performance.",
+"Successfully presented a compelling demo to Euc's data team, effectively introducing the project and garnering approval for its integration into Euc's data analysis workflow."
+    ],
+    "skill_tag": ["Large Language Model", "Retrieval Augmented Generation", "Google Cloud APIs", "Streamlit", "Python"],
+    "difficult":3,
+    "viewLink": "https://youtu.be/kBhp6QGMLbQ",
+    "sourceCode": "https://github.com/thaoquynh0603/sql-assistant-streamlit"
+    },
+ {
+      "name": "CRM Usability Categorization",
+      "date": 2023,
+      "projectype": "Enterprise Project",
+      "description":[
+       "Query the data from CRM system using SQL and prepare the data with Pandas and Numpy.",
+	"Build a mathematical model to define the level of compatibility betwen company's resources and client's requirements.",
+	"Build a text-mining model to analyze clients and sellers' comments to understand the client' needs and issues.",
+	"Leverage object-oriented programming to generate a CRM record object that can define its usability with information verification and status categorization.",
+	"Employ Apache Hadoop to process all historical records in the CRM system."
+      ],
+      "skill_tag": ["SQL", "Python", "Text Mining", "Object-oriented Programming", "Apache Hadoop"],
+      "difficult":3,    	
+      "sourceCode":"https://github.com/thaoquynh0603/sttrinitycrm"
+    },
+ {
+      "name": "Identifying Buy/Sell Signals using the Moving Average Model",
+      "date": 2023,
+      "projectype": "Research Project",
+      "description":[
+       "Apply the Moving Average Model to generate buy/sell/hold signals on the data of different ETFs from Yahoo Finance",
+	"Contribute to the programming algorithm of the model",
+	"Visualise the exhibits using Matplotlib, PowerBI and Microsoft Excel."
+      ],
+      "skill_tag": ["Visualization", "Python", "Microsoft Excel","PowerBI", "Finance Modelling"],
+      "difficult":3,    	
+	"sourceCode":"https://github.com/thaoquynh0603/npresearch"
+    },
+ {
+      "name": "Customer Segmentation with Clustering Algorithms",
+      "date": 2023,
+      "projectype": "Individual Project",
+      "description":[
+       "Exploratory Data Analysis to analyse the pattern of the data before fitting the data into the model.",
+"Data Cleaning and Preparation includes handling with missing values, unappropriate values and outliers. Besides, feature engineering, standardization and PCA method are also applied to improve the efficiency when fitting the data in the model.",
+"Unsupervised Machine Learning - Clustering task: fitting the data into K-means clustering and Agglomerative Clustering, visualising the results, evaluating the performance and intepreting the most efficienct clustering result."
+      ],
+      "skill_tag": ["EDA", "Data Preparation", "Unsupervised Learning"],
+      "difficult":2,    	
+	"sourceCode":"https://github.com/thaoquynh0603/cluster-analysis"
+    },
+ {
+      "name": "Nintendo Switch Game Recommendation",
+      "date": 2022,
+      "projectype": "Individual Project",
+      "description":[
+        "Scrape the game title and description from Wikipedia using BeautifulSoup4 and clean the data with Pandas.",
+	"Extract features from the game description using text mining techniques: text tokenizing, TF-IDF Vectorization",
+	"Recommend the game by finding the similar games with K-Mean Clustering and Cosine similarity." 
+      ],
+      "skill_tag": ["Data Scraping", "Text Mining", "Unsupervised Learning"],
+      "difficult":2,    	
+	"sourceCode":"https://github.com/thaoquynh0603/game-recommendation"
+    },
+  {
+      "name": "Rotten Fruit Classification",
+      "date": 2022,
+      "projectype": "Individual Project",
+      "description":[
+        "Build model that classify three types of fruits (orange, banana, apple) and its status (fresh or rotten).",
+	"Process the image and train the model using neutral network and transfer learning (VGG16 and ResNet50)" 
+      ],
+      "skill_tag": ["Tensorflow", "Neural Network", "Transfer Learning"],
+      "difficult":2,    	
+	"sourceCode":"https://github.com/thaoquynh0603/rotten-fruit-classification"
+    },
+  {
+      "name": "Cloud Usage Dashboard",
+      "date": 2022,
+      "projectype": "Enterprise Project",
+      "description":[
+        "A dashboard using multiple visual types (Table, Map, Bar Chart, Treemap, Scorecard), filter and DAX language to analyze the cloud usage by location, company, and category." 
+      ],
+      "skill_tag": ["Visualization", "PowerBI", "DAX"],
+      "difficult":2,    	
+	"sourceCode":""
+    },
+  {
+      "name": "E-commerce Interface: Pokemon Shop",
+      "date": 2022,
+      "projectype": "Individual Project",
+      "description":[
+        "A website using HTML, CSS and responsive front-end techniques to introduce about Hue City, Vietnam"
+      ],
+      "skill_tag": ["HTML", "CSS"],
+      "difficult":1,    	
+	"sourceCode":"https://github.com/thaoquynh0603/pokemon-shop",
+	"viewLink":"https://thaoquynh0603.github.io/pokemon-shop/"
+    },
+    {
+      "name": "Static Website: Introduction to Hue",
+      "date": 2022,
+      "projectype": "Individual Project",
+      "description":[
+        "A website using HTML, CSS and responsive front-end techniques to introduce about Hue City, Vietnam"
+      ],
+      "skill_tag": ["HTML", "CSS", "Front-end Development"],
+      "difficult":1,    	
+	"sourceCode":"https://github.com/thaoquynh0603/hue-city-html-css",
+	"viewLink":"https://thaoquynh0603.github.io/hue-city-html-css/"
+    },
+    {
+      "name": "Predicting House Prices using Multiple Regression",
+      "date": 2022,
+      "projectype": "Ìndividual Project",
+      "description":[
+        "Apply the knowledge about Linear Regression to observe the relationship between variables and predict the future value of a property.",
+        "Achieve the 11% difference between the model's prediction and the actual value."
+      ],
+      "skill_tag": ["Statistics", "Linear Regresson", "EDA", "Python"],
+      "difficult":1,	"sourceCode":"https://github.com/thaoquynh0603/multiple-regression-predict-house-price"
+    }
+    ],
+ "qualification":[
+    {
+      "certiname":"Machine Learning Engineer Specialisation",
+      "date":"December 2024",
+      "description":"Fundamentals of MLOps, key technologies like Python, Docker, MLflow, deployment strategies, and monitoring.",
+      "link":"https://www.datacamp.com/completed/statement-of-accomplishment/track/25a8d423952dab325feb935665f2a24728d73e5a",
+      "image":"https://drive.google.com/uc?export=view&id=1YsIp2FxZPrKoO_f1CQWUuevgbwisYYSx"
+    },
+    {
+      "certiname":"Big Data Specialisation, University of San Diago",
+      "date":"Sep 2023",
+      "description":"Big Data Modeling and Management Systems, Graph Analytics for Big Data, Big Data Integration and Processing, Machine Learning With Big Data.",
+      "link":"https://coursera.org/share/902f3dc58e60866762dc04695fe75804",
+      "image":"https://drive.google.com/uc?export=view&id=1RT_2UX2c3irh2hEIDz_ipFPq1LttXJfO"
+    },
+    {
+      "certiname":"SQL (Advanced) Certificate, Hackerrank",
+      "date":"Nov 2022",
+      "description":"Query optimization, data modeling, Indexing, window functions, and pivots in SQL.",
+      "link":"https://www.hackerrank.com/certificates/875275b62780",
+      "image":"https://drive.google.com/uc?export=view&id=10pCYFTdV1ER1LQ0KIrJr1lzPrEYRI7u5"
+    },
+    {
+      "certiname":"Machine Learning Specialisation, DeepLearning.AI",
+      "date":"Nov 2022",
+      "description":"Build ML models with NumPy & scikit-learn, build & train supervised and unsupervised models.",
+      "link":"https://www.coursera.org/account/accomplishments/specialization/certificate/HE5B542ZKK3M",
+      "image":"https://drive.google.com/uc?export=view&id=1ZYAI7nUljCiARNrvxQMyAs_C5wgEd3MD"
+    },
+    {
+      "certiname":"Getting Started with Deep Learning, NVIDIA DLI",
+      "date":"Oct 2022",
+      "description":"Data Augmentation and Deployment, Convolutional Neural Networks, Recurrent Neural Networks, Pre-Trained Model. ",
+      "link":"https://courses.nvidia.com/certificates/56265535baa74343b3c3f1c086c7c142/",
+      "image":"https://drive.google.com/uc?export=view&id=1jmMXOazM5-qSHDtcOgDo899uk054cvrr"
+    },
+    {
+      "certiname":"Microsoft Certified: Azure Fundamentals",
+      "date":"July 2022",
+      "description":"Foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+      "link":"https://www.credly.com/badges/f6a91a00-560e-423e-9f2d-156fff8044fe/public_url",
+      "image":"https://drive.google.com/uc?export=view&id=13qRUduIyTbjcfi0YtgtMgFMGRW5eajYZ"
+    },
+    {
+      "certiname":"Data Analysis with Python, freeCodeCamp",
+      "date":"May 2022",
+      "description":"Statistics, Data Exploratory Analysis, Visualization with Python",
+      "link":"https://www.freecodecamp.org/certification/quynhnguyen0603/data-analysis-with-python-v7",
+      "image":"https://drive.google.com/uc?export=view&id=1YxWSa6s8wu__4SLHCM7vfKpX4HwUOn7n"
+    },
+    {
+      "certiname":"Microsoft Certified: Azure Data Fundamentals",
+      "date":"April 2022",
+      "description":"Foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.",
+      "link":"https://www.credly.com/badges/c6f51950-26ef-4c48-aa2b-71a052dc86cc/public_url",
+      "image":"https://drive.google.com/uc?export=view&id=1QvDnZxViY__KDGqtcq1Fqhy6mmqknkpQ"
+    }
+ ],
+ "phone": "0431 760 288",
+ "email": "quynhnguyen.spjain@gmail.com",
+ "linkedin": "/linkedin.com/in/quynhnguyen0603",
+ "linkedin_link": "https://www.linkedin.com/in/quynhnguyen0603/",
+ "cv_path":"https://drive.google.com/uc?export=download&id=1IM9jbFmKXRq3_3iHFhNazncCEgxtAdrb",
+ "skills":{
+    "computer_languages":{
+      "label": ["Python", "SQL", "Bash", "JavaScript", "HTML", "CSS"],
+      "point":[10, 10, 6, 6, 7, 7]
+    },
+    "software_tools":{
+      "label":[["Metabase"], ["Tableau"], ["Segment"],["Jupyter","Notebook"],["Tensorflow"],["Sklearn"],["DBT"], ["Fivetran"], ["AWS/", "GCP"], ["Git"], ["Docker"]],
+      "point":[9, 8, 9, 9, 8, 8, 7, 6, 7, 7, 8]
+    },
+    "softskills":{
+      "label":["Communication", ["Problem", "Solving"], ["Critical", "Thinking"], ["Time", "Management"], "Teamwork", "Analytics"],
+      "point":[8, 9, 9, 8, 9, 8]
+    },
+    "knowledge":{
+      "label":[["Data","Modelling"], ["Data","Scraping"], ["Data", "Wrangling"], ["Database", "Management"], ["ETL", "Pipeline"], ["Data", "Warehousing"], ["Machine", "Learning"], ["Big", "Data"], ["Cloud", "Computing"], ["Web","Development"]],
+      "point":[8, 6, 9, 5, 9, 8, 8, 8, 7, 8]
+    }
+ }
+}
+ 
