@@ -1,6 +1,6 @@
-{"name": "QUYNH NGUYEN ",
+{"name": "RISHABH MAHAJAN",
  "title": "A bit of Data Science",
- "github":"https://github.com/thaoquynh0603",
+ "github":"https://github.com/IAmRishabhMahajan",
  "img_source":"https://drive.google.com/uc?export=view&id=1vlR-dLfbdkVgX-p_zxDPxIsV7G8KJ1yv",
  "greeting": "Nice to see you here!",
  "description": ["Programming, researching, and learning data science are my joy. As I engage in problem-solving, this joy transforms into a devoted commitment.",
@@ -255,28 +255,60 @@
       "image":"https://drive.google.com/uc?export=view&id=1QvDnZxViY__KDGqtcq1Fqhy6mmqknkpQ"
     }
  ],
- "phone": "0431 760 288",
- "email": "quynhnguyen.spjain@gmail.com",
- "linkedin": "linkedin.com/in/quynhnguyen0603",
- "linkedin_link": "https://www.linkedin.com/in/quynhnguyen0603/",
- "cv_path":"https://drive.google.com/uc?export=download&id=1IM9jbFmKXRq3_3iHFhNazncCEgxtAdrb",
- "skills":{
-    "computer_languages":{
-      "label": ["Python", "SQL", "R", "JavaScript", "HTML", "CSS"],
-      "point":[10, 10, 7, 4, 7, 7]
-    },
-    "software_tools":{
-      "label":[["PowerBI"],["Jupyter","Notebook"],["Tensorflow"],["Sklearn"],["Microsoft","Excel"],["Apache", "Hadoop"], ["Apache", "Spark"], ["AWS/", "Microsoft Azure"], ["Git"], ["React.Js"], ["Node.Js"]],
-      "point":[9, 10, 9, 9, 10, 8, 6, 7, 8, 8, 6]
-    },
-    "softskills":{
-      "label":["Communication", ["Problem", "Solving"], ["Critical", "Thinking"], ["Time", "Management"], "Teamwork", "Analytics"],
-      "point":[8, 9, 9, 8, 9, 8]
-    },
-    "knowledge":{
-      "label":[["Data","Scraping"], ["Data", "Wrangling"], ["Database", "Management"], ["Data", "Exploratory","Analysis"], ["Data", "Visualisation"], ["Machine", "Learning"], ["Big", "Data"], ["Cloud", "Computing"], ["Web","Development"]],
-      "point":[6, 9, 5, 9, 8, 9, 8, 7, 6]
-    }
- }
+ "phone": "0468 717 883",
+ "email": "rishabhmahajan1204@gmail.com",
+ "linkedin": "linkedin.com/in/rishabh-mahajan-2a9693142",
+ "linkedin_link": "https://www.linkedin.com/in/rishabh-mahajan-2a9693142/",
+ "cv_path":"https://drive.google.com/drive/folders/1jzYcuWC4FjYxVZhkeL-GG7LrXMtC0MN8",
+ "skills": {
+  "computer_languages": {
+    "label": ["Python", "SQL", "Java"],
+    "point": [9, 9, 7]
+  },
+  "software_tools": {
+    "label": [
+      ["Power", "BI"],
+      ["Power", "Automate"],
+      ["Databricks"],
+      ["Snowflake"],
+      ["Airflow"],
+      ["Docker"],
+      ["Flask"],
+      ["Streamlit"],
+      ["Gradio"],
+      ["Apache", "Spark"],
+      ["AWS"],
+      ["Microsoft", "Azure"],
+      ["Visual", "Studio", "Code"],
+      ["DBeaver"]
+    ],
+    "point": [9, 8, 8, 8, 8, 7, 8, 8, 7, 9, 8, 8, 9, 7]
+  },
+  "softskills": {
+    "label": [
+      "Communication",
+      ["Problem", "Solving"],
+      ["Critical", "Thinking"],
+      ["Time", "Management"],
+      "Teamwork",
+      ["Business", "Analysis"]
+    ],
+    "point": [8, 9, 9, 8, 9, 8]
+  },
+  "knowledge": {
+    "label": [
+      ["Data", "Engineering"],
+      ["Data", "Anonymization"],
+      ["API", "Development"],
+      ["Machine", "Learning"],
+      ["Data", "Visualization"],
+      ["Big", "Data"],
+      ["Cloud", "Computing"],
+      ["Database", "Management"],
+      ["Pipeline", "Optimization"]
+    ],
+    "point": [9, 8, 9, 9, 9, 8, 8, 8, 9]
+  }
+}
 }
  

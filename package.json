@@ -1,7 +1,7 @@
 {
   "name": "my-profile",
   "version": "0.1.0",
-  "homepage": "https://thaoquynh0603.github.io/quynhnguyen-profile",
+  "homepage": "https://iamrishabhmahajan.github.io/rishabhmahajan-profile",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }

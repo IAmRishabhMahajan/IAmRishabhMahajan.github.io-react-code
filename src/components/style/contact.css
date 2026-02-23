@@ -62,7 +62,7 @@ color: var(--text-color);
 }
 
 #info-phone div{
-    background-color: rgb(255, 237, 182);
+    background-color: #97d7d7;
     /* display: none; */
     transform: translateX(-93%);
     z-index: 1;
@@ -70,14 +70,14 @@ color: var(--text-color);
 }
 
 #info-email div{
-    background-color: rgb(253, 210, 81);
+    background-color: #419595;
     transform: translateX(-95%);
     z-index: 2;
     transition:  transform 0.3s ease; 
 }
 
 #info-linkedin div{
-    opacity: 1;
+    background-color: #4195957a;
     transform: translateX(-98%);
     z-index: 3;
     transition:  transform 0.3s ease; 

@@ -2,7 +2,7 @@
     --white-color: #fff;
     --black-color: rgb(39, 39, 39);
     --text-color: rgb(22, 22, 22);
-    --theme-color: #fdb600;
+    --theme-color: #00595a;
     --page-color: #F5F6F8;
     
   }
@@ -137,7 +137,7 @@
   .separator{
     margin-left: 20px;
     padding-left: 20px;
-    border-left: #FDB600 solid 3px 
+    border-left: #00595a solid 3px 
   }
 
 

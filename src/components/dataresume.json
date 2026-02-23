@@ -1,5 +1,5 @@
 {"name": "RISHABH MAHAJAN ",
- "title": "A bit of Data Science",
+ "title": "Measure | Model | Improve",
  "github":"https://github.com/iamrishabhmahajan",
  "img_source":"/src/components/images/profile-img.jpg",
  "greeting": "Welcome to my Hub, ",
@@ -9,18 +9,17 @@
 		  "Last but not least, I’m a foodie, a Picasso wannabe, and a gleeful introvert."],
  "highlight": "If your awesome data team needs some more hands, I got you. I'm looking forward an opportunities to bring data science solutions to level up the business performance. So, if you think we could be a good match, please reach out to me!",
  "education":[{
-    "school":"S P Jain School of Global Management",
-    "begin_year":"2021",
-    "end_year":"2024",
-    "program": "Bachelor of Data Science",
-    "GPA": "3.8",
-    "achievement": "Dean's Lister",
-    "school_link": "https://www.spjain.edu.au/",
-    "program_link": "https://www.spjain.edu.au/programs/undergraduate/bachelor-of-data-science"
+    "school":"University of Technology Sydney",
+    "begin_year":"2024",
+    "end_year":"2025",
+    "program": "Master of Data Science and Innovation",
+    "WAM": "91",
+    "school_link": "https://www.uts.edu.au/",
+    "program_link": "https://www.uts.edu.au/courses/master-data-science-and-innovation"
  }
 ],
  "experience":[
-  {"experience":"Data Analyst",
+  {"experience":"Data Engineering Intern",
   "company":"Eucalyptus",
   "company_location":"Sydney, NSW, Australia",
   "work_begin":"February 2024",
@@ -348,28 +347,60 @@
       "image":"https://drive.google.com/uc?export=view&id=1QvDnZxViY__KDGqtcq1Fqhy6mmqknkpQ"
     }
  ],
- "phone": "0431 760 288",
- "email": "quynhnguyen.spjain@gmail.com",
- "linkedin": "/linkedin.com/in/quynhnguyen0603",
- "linkedin_link": "https://www.linkedin.com/in/quynhnguyen0603/",
- "cv_path":"https://drive.google.com/uc?export=download&id=1IM9jbFmKXRq3_3iHFhNazncCEgxtAdrb",
- "skills":{
-    "computer_languages":{
-      "label": ["Python", "SQL", "Bash", "JavaScript", "HTML", "CSS"],
-      "point":[10, 10, 6, 6, 7, 7]
-    },
-    "software_tools":{
-      "label":[["Metabase"], ["Tableau"], ["Segment"],["Jupyter","Notebook"],["Tensorflow"],["Sklearn"],["DBT"], ["Fivetran"], ["AWS/", "GCP"], ["Git"], ["Docker"]],
-      "point":[9, 8, 9, 9, 8, 8, 7, 6, 7, 7, 8]
-    },
-    "softskills":{
-      "label":["Communication", ["Problem", "Solving"], ["Critical", "Thinking"], ["Time", "Management"], "Teamwork", "Analytics"],
-      "point":[8, 9, 9, 8, 9, 8]
-    },
-    "knowledge":{
-      "label":[["Data","Modelling"], ["Data","Scraping"], ["Data", "Wrangling"], ["Database", "Management"], ["ETL", "Pipeline"], ["Data", "Warehousing"], ["Machine", "Learning"], ["Big", "Data"], ["Cloud", "Computing"], ["Web","Development"]],
-      "point":[8, 6, 9, 5, 9, 8, 8, 8, 7, 8]
-    }
- }
+ "phone": "0468 717 883",
+ "email": "rishabhmahajan1204@gmail.com",
+ "linkedin": "linkedin.com/in/rishabh-mahajan-2a9693142",
+ "linkedin_link": "https://www.linkedin.com/in/rishabh-mahajan-2a9693142/",
+ "cv_path":"https://drive.google.com/drive/folders/1jzYcuWC4FjYxVZhkeL-GG7LrXMtC0MN8",
+ "skills": {
+  "computer_languages": {
+    "label": ["Python", "SQL", "Java"],
+    "point": [9, 9, 7]
+  },
+  "software_tools": {
+    "label": [
+      ["Power", "BI"],
+      ["Power", "Automate"],
+      ["Databricks"],
+      ["Snowflake"],
+      ["Airflow"],
+      ["Docker"],
+      ["Flask"],
+      ["Streamlit"],
+      ["Gradio"],
+      ["Apache", "Spark"],
+      ["AWS"],
+      ["Microsoft", "Azure"],
+      ["Visual", "Studio", "Code"],
+      ["DBeaver"]
+    ],
+    "point": [9, 8, 8, 8, 8, 7, 8, 8, 7, 9, 8, 8, 9, 7]
+  },
+  "softskills": {
+    "label": [
+      "Communication",
+      ["Problem", "Solving"],
+      ["Critical", "Thinking"],
+      ["Time", "Management"],
+      "Teamwork",
+      ["Business", "Analysis"]
+    ],
+    "point": [8, 9, 9, 8, 9, 8]
+  },
+  "knowledge": {
+    "label": [
+      ["Data", "Engineering"],
+      ["Data", "Anonymization"],
+      ["API", "Development"],
+      ["Machine", "Learning"],
+      ["Data", "Visualization"],
+      ["Big", "Data"],
+      ["Cloud", "Computing"],
+      ["Database", "Management"],
+      ["Pipeline", "Optimization"]
+    ],
+    "point": [9, 8, 9, 9, 9, 8, 8, 8, 9]
+  }
+}
 }
  
