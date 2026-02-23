@@ -11,6 +11,7 @@ function Contact() {
     const form = useRef();
     const [isSuccess, setIsSuccess] = useState(false);
     const [isFailure, setIsFailure] = useState(false);
+    const linkedinLabel = Data.linkedin.split('/').filter(Boolean).slice(-1)[0];
 
     const sendEmail = (e) => {
         e.preventDefault();
@@ -33,28 +34,35 @@ function Contact() {
         });
     };
     return (
-        <div class="grid" id='contact'>
-            <div class="whole">               
-                <div class="body">
-                    <div class='contact'>
-                        <h1 class='contact title'> Contact </h1>
-                        <div class='contact-section grid_row'>
-                            <div class='contact-information-container'>
-                                <div class='contact-information'>
-                                    <div class='contact-information-item' id='info-phone'>  
-                                        <AiOutlinePhone class='contact-icon' style={{color:'#00595a', 'font-size':'35px','padding-right':'10px'}} /> 
-                                        <div class='more-contact-detail'> {Data.phone} </div>
+        <div className="grid" id='contact'>
+            <div className="whole">               
+                <div className="body">
+                    <div className='contact'>
+                        <h1 className='contact title'> Contact </h1>
+                        <p className='contact-subtitle'>Let’s connect for roles, collaborations, or just a quick hello.</p>
+                        <div className='contact-section grid_row'>
+                            <div className='contact-information-container'>
+                                <div className='contact-information'>
+                                    <div className='contact-information-item'>
+                                        <a href={`tel:${Data.phone.replace(/\s/g, '')}`} className='contact-icon-wrapper' aria-label='Phone'>
+                                            <AiOutlinePhone className='contact-icon' />
+                                        </a>
+                                        <div className='more-contact-detail'><a href={`tel:${Data.phone.replace(/\s/g, '')}`}>{Data.phone}</a></div>
                                     </div>
-                                    <div class='contact-information-item' id='info-email'> 
-                                        <AiOutlineMail class='contact-icon' style={{color:'#00595a', 'font-size':'35px','padding-right':'10px'}} /> 
-                                        <div class='more-contact-detail'>  <a href={Data.email} target='_blank' rel="noreferrer"> {Data.email} </a> </div>
+                                    <div className='contact-information-item'>
+                                        <a href={`mailto:${Data.email}`} className='contact-icon-wrapper' aria-label='Email'>
+                                            <AiOutlineMail className='contact-icon' />
+                                        </a>
+                                        <div className='more-contact-detail'><a href={`mailto:${Data.email}`} target='_blank' rel="noreferrer">{Data.email}</a></div>
                                     </div>
-                                    <div class='contact-information-item' id='info-linkedin'>
-                                        <AiOutlineLinkedin class='contact-icon' style={{color:'#00595a', 'font-size':'35px','padding-right':'10px'}} />
-                                        <div class='more-contact-detail'>  <a href={Data.linkedin_link} target='_blank' rel="noreferrer"> {Data.linkedin} </a> </div>
+                                    <div className='contact-information-item'>
+                                        <a href={Data.linkedin_link} className='contact-icon-wrapper' target='_blank' rel="noreferrer" aria-label='LinkedIn'>
+                                            <AiOutlineLinkedin className='contact-icon' />
+                                        </a>
+                                        <div className='more-contact-detail'><a href={Data.linkedin_link} target='_blank' rel="noreferrer">{linkedinLabel}</a></div>
                                     </div>
                                 </div>
-                                <a id='cv_download' href={Data.cv_path}> <AiOutlineDownload style={{'font-size':'25px','padding-right':'5px'}} /> Download my CV in PDF </a>
+                                <a id='cv_download' href={Data.cv_path} target='_blank' rel="noreferrer"> <AiOutlineDownload /> Download my CV in PDF </a>
                             </div>
                         </div>
                     </div>
